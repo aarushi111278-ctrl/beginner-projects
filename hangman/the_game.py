@@ -10,8 +10,6 @@ lives = 6
 
 from the_man import logo
 from the_man import welcome
-print(welcome)
-print(logo)
 
 display = []
 for _ in range(word_length):
